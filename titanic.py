@@ -124,7 +124,8 @@ y_pred = logreg.predict(X_test)
 print("Accuracy of logistic regression: {:.2f}".format(logreg.score(X_test, y_test)))
 
 
-
+# Random forest score: 0.83
+# Accuracy of logistic regression: 0.78
 
 
 
